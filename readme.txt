@@ -20,6 +20,7 @@ implementing git webhook
 just checking !!!!!
 
 trigger for poll scm yes it works
+it is not workingggg
 
 now trying with github webhook
 its workingggggg
